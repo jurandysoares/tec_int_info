@@ -1,11 +1,8 @@
 #  
 
-
 * Curso: Técnico Integrado em Informática
-                Arquitetura de redes de computadores e Tecnologia de
-* Disciplina:                                                                           
+* Disciplina: Arquitetura de redes de computadores e Tecnologia de Implementação de Redes
 * Carga-Horária: 105h (140h/a)
-                Implementação de Redes
 
 ## EMENTA
 

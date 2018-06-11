@@ -1,7 +1,7 @@
 # BIOLOGIA 
 
 * Curso: Técnico Integrado em Informática
-* Disciplina: BIOLOGIA                                                                  
+* Disciplina: Biologia (4º ano)
 * Carga-Horária: 120h (160h/a)
 
 ## EMENTA

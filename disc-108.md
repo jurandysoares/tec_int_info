@@ -1,10 +1,8 @@
 #  
 
 * Curso: Técnico Integrado em Informática
-                Filosofia, Ciência e Tecnologia (Eixo Tecnológico
-* Disciplina:                                                                            
+* Disciplina: Filosofia, Ciência e Tecnologia (Eixo Tecnológico Informação e Comunicação)
 * Carga-Horária: 30h (40h/a)
-                Informação e Comunicação).
 
 ## EMENTA
 

@@ -2,7 +2,7 @@
 
 
 * Curso: Técnico Integrado em Informática
-* Disciplina: Educação Física                                                                              
+* Disciplina: Educação Física (1º Ano)
 * Carga-Horária: 60h (80h/a)
 
 ## EMENTA

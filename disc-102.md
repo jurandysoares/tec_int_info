@@ -2,7 +2,7 @@
 
 
 * Curso: Técnico Integrado em Informática
-* Disciplina: Biologia                                                                    
+* Disciplina: Biologia (3º ano)
 * Carga-Horária: 90h (120h/a)
 
 ## EMENTA

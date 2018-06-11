@@ -2,7 +2,7 @@
 
 
 * Curso: Técnico Integrado em Informática
-* Disciplina: Filosofia                                                                      
+* Disciplina: Filosofia (1º Ano)
 * Carga-Horária: 30h (40h/a)
 
 ## EMENTA
