@@ -1,5 +1,4 @@
-# Educação Física 
-
+# Educação Física (1º Ano)
 
 * Curso: Técnico Integrado em Informática
 * Disciplina: Educação Física (1º Ano)

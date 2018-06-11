@@ -1,6 +1,5 @@
 # Inglês II 
 
-
 * Curso: Técnico Integrado em Informática
 * Disciplina: Inglês II
 * Carga-Horária: 90h (120 h/a)

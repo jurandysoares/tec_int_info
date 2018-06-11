@@ -1,4 +1,4 @@
-# Filosofia 
+# Filosofia (2º Ano)
 
 * Curso: Técnico Integrado em Informática
 * Disciplina: Filosofia (2º Ano)

@@ -1,6 +1,5 @@
 # Espanhol 
 
-
 * Curso: Técnico Integrado em Informática
 * Disciplina: Espanhol
 * Carga-Horária: 90h (120h/a) 3h/a semanais

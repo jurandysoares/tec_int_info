@@ -1,4 +1,4 @@
-# Filosofia 
+# Filosofia (3º Ano) 
 
 * Curso: Técnico Integrado em Informática
 * Disciplina: Filosofia (3º Ano)

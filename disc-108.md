@@ -1,4 +1,4 @@
-#  
+# Filosofia, Ciência e Tecnologia (Eixo Tecnológico Informação e Comunicação)
 
 * Curso: Técnico Integrado em Informática
 * Disciplina: Filosofia, Ciência e Tecnologia (Eixo Tecnológico Informação e Comunicação)

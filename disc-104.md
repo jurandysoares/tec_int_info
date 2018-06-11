@@ -1,4 +1,4 @@
-# BIOLOGIA 
+# Biologia (4º ano)
 
 * Curso: Técnico Integrado em Informática
 * Disciplina: Biologia (4º ano)
