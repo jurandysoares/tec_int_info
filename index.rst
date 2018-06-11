@@ -3,66 +3,63 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Técnico Integrado em Informática
-============================================================
+Curso Técnico Integrado em Informática
+=========================================
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contents:
+   :caption: Relação de disciplinas
 
+   lingua-portuguesa-e-literatura-1o-ano
+   lingua-portuguesa-e-literatura-2o-ano
+   lingua-portuguesa-e-literatura-3o-ano
+   lingua-portuguesa-e-literatura-4o-ano
+   ingles-i
+   ingles-ii
+   espanhol
+   arte-artes-visuais
+   arte-musica
+   arte-artes-cenicas
+   educacao-fisica-1o-ano
+   educacao-fisica-2o-ano
+   geografia-1o-ano
+   geografia-2o-ano
+   historia-i
+   historia-ii
+   historia-iii
+   filosofia-1o-ano
+   filosofia-2o-ano
+   filosofia-3o-ano
+   sociologia-1o-ano
+   sociologia-2o-ano
+   sociologia-3o-ano
+   matematica-i
+   matematica-ii
+   matematica-iii
+   fisica-i-mecanica-classica-e-termodinamica
+   fisica-ii-ondas-optica-eletromagnetismo-e-fisica-moderna
+   quimica-i
+   quimica-ii
+   disciplina-biologia-3o-ano
+   biologia-4o-ano
+   informatica
+   filosofia-ciencia-e-tecnologia-eixo-tecnologico-informacao-e-comunicacao
+   sociologia-do-trabalho
+   qualidade-de-vida-e-trabalho
+   gestao-organizacional
+   fundamentos-de-logica-e-algoritmos
+   eletricidade-instrumental
+   eletronica-analogica-e-digital
+   organizacao-e-manutencao-de-computadores
+   programacao-estruturada-e-orientada-a-objetos
+   programacao-com-acesso-a-banco-de-dados
+   projeto-de-desenvolvimento-de-software
+   autoria-web
+   programacao-para-internet
+   arquitetura-de-redes-de-computadores-e-tecnologia-de-implementacao-de-redes
+   fundamentos-de-sistemas-operacionais-e-sistemas-operacionais-de-redes
 
-   disc-29.md
-   disc-34.md
-   disc-38.md
-   disc-42.md
-   disc-45.md
-   disc-47.md
-   disc-49.md
-   disc-52.md
-   disc-55.md
-   disc-57.md
-   disc-59.md
-   disc-61.md
-   disc-63.md
-   disc-66.md
-   disc-68.md
-   disc-70.md
-   disc-72.md
-   disc-74.md
-   disc-76.md
-   disc-78.md
-   disc-80.md
-   disc-82.md
-   disc-84.md
-   disc-86.md
-   disc-88.md
-   disc-90.md
-   disc-92.md
-   disc-94.md
-   disc-96.md
-   disc-99.md
-   disc-102.md
-   disc-104.md
-   disc-106.md
-   disc-108.md
-   disc-110.md
-   disc-112.md
-   disc-114.md
-   disc-115.md
-   disc-116.md
-   disc-119.md
-   disc-121.md
-   disc-122.md
-   disc-124.md
-   disc-126.md
-   disc-127.md
-   disc-129.md
-   disc-130.md
-   disc-132.md
-
-Indices and tables
+Indices e tabelas
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
