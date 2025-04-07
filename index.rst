@@ -11,7 +11,7 @@ Curso Técnico Integrado em Informática
    :caption: Relação de disciplinas
    :glob:
 
-   *
+   */*
 
    
 Indices e tabelas
