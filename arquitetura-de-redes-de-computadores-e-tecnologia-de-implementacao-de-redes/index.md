@@ -90,3 +90,9 @@ Ed. Addison Wesley
 10. DERFLER, Frank. Tudo sobre cabeamento de redes. Campus. 1993.
 11. Catálogo de produtos da Furukawa. Disponível em www.furukawa.com.br.
 12. Catálogo de produtos da Pial. Disponível em www.pial.com.br.
+
+### Software(s) de Apoio
+
+* Sistema operacional com suporte a redes e analisadores de protocolos.
+* Software para desenho de diagramas de redes.
+
